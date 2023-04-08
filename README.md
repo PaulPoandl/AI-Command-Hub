@@ -61,3 +61,5 @@ Note: The AIs maybe cost something!!
 Note: Read the introduction before you use the program!!
 Note: Agree the license otherwise you are not allowed to use it!
 Note: The program maybe have some errors!
+Note: I do not guarantee that all of the above information is correct!
+Note: Please do not take too serious what the program tell you!!!
