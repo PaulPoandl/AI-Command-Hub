@@ -26,6 +26,12 @@ This Programm works by integrating with the Wolfram Alpha API, which allows it t
 
 # Chatty and Q&A Companion
 
+Chatty is a chatbot program that has been designed to facilitate all-day communication between users and the program. It operates using pre-defined answers to questions and prompts, which are stored in a response sheet. This sheet can be customized by each user, allowing for personalized communication and improved interaction.
+The response sheet in Chatty is an important feature as it serves as a reference for the program's pre-defined responses. Users can define or rewrite responses to suit their specific needs or preferences, making the chatbot more tailored to their individual communication style. The program's ability to incorporate personalization helps to increase user engagement and satisfaction.
+
+Q&A Companion, on the other hand, is a similar program that requires users to write their own response sheet. However, there are already pre-existing response sheets available to help users get started. This program is more suited to those who prefer a more hands-on approach to customizing their chatbot, as they can choose to write and update the responses themselves.
+Overall, both Chatty and Q&A Companion are useful chatbot programs that can help users communicate with ease and efficiency. With their pre-defined and customizable responses, they provide an excellent solution for all-day communication and support.
+
 ![Unbenannt3](https://user-images.githubusercontent.com/75140549/230721757-52f37466-3e1f-4a15-b189-2043732d14d0.PNG)
 
 
