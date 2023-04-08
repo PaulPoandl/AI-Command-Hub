@@ -16,5 +16,11 @@ The Programm contains the AI models Ada, Davinci, Babbage and Curie, supportage 
 
 # Wolframalpha 
 
+Wolfram Alpha is a computational knowledge engine that can answer factual queries by computing the answers based on structured data from various sources. It can perform a wide range of tasks such as mathematical computation, data analysis, image and signal processing, and natural language understanding. It is not a general-purpose search engine like Google, but rather a tool for computing specific answers to factual questions.
+
+This Programm works by integrating with the Wolfram Alpha API, which allows it to send queries to the Wolfram Alpha engine and receive computed answers in response. Users can enter their queries in natural language, and your app will send the query to the Wolfram Alpha API for processing. The API returns the computed answer, which your app can then display to the user. This way, your app provides access to the computational power of Wolfram Alpha to users who want to quickly compute answers to factual questions. However, it's important to note that the accuracy of the answers depends on the quality and completeness of the data sources used by Wolfram Alpha.
+
+# Chatty and Q&A Companion
+
 
 
