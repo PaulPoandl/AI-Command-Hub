@@ -1,6 +1,6 @@
 # AI-Command-Hub
 
-Introducing our AI library - an all-in-one solution for anyone looking to integrate artificial intelligence into their work. Our Python app offers a range of AI engines, including four from OpenAI and Wolframalpha, along with a powerful chatbot system.
+Introducing our AI library - an all-in-one solution for anyone looking to integrate artificial intelligence into their work. Our Python app offers a range of AI engines, including OpenAI and also the Wolframalpha Library, along with a powerful chatbot system.
 
 One unique feature is "Chatty," a chatbot that responds to specific commands, making it easy to use and navigate. Additionally, you can create your own chatbot with our Q&A Companion, where you can write your own answersheet and choose your preferred response.
 
