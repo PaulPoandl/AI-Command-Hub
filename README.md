@@ -34,4 +34,21 @@ Overall, both Chatty and Q&A Companion are useful chatbot programs that can help
 
 ![Unbenannt3](https://user-images.githubusercontent.com/75140549/230721757-52f37466-3e1f-4a15-b189-2043732d14d0.PNG)
 
+# The main Programm (AI Command Hub) 
+
+The AI Command Hub is the main window of the program, which has a modern and user-friendly design. It provides users with a centralized location to access all the available AI chatbots and other useful commands. The hub serves as a control panel for all the AI-powered assistants, which can be launched from this window.
+
+In addition to launching the chatbots, the AI Command Hub also includes other useful commands that can help users in their day-to-day activities. For instance, it includes a Help button that provides assistance to users when they need it. This can be useful for users who are new to the program or require some guidance in using the chatbots effectively.
+
+Another important feature of the AI Command Hub is the ability to mute or unmute the chatbots. This can be useful for users who prefer to read the responses rather than listening to them. The ability to mute or unmute the chatbots can also help in situations where users do not want the chatbots to speak out loud, for example, in a crowded environment.
+
+Users can also speak their commands through the AI Command Hub. This feature is particularly useful for users who prefer to speak their queries or commands rather than typing them out. The program uses voice recognition technology to understand the user's speech and execute the relevant command.
+
+Finally, the AI Command Hub includes an Execute and Submit button, which allows users to start the command. This button is used to launch the chatbots and execute other useful commands available in the program. By clicking on the Execute and Submit button, the program will execute the command, and the relevant response will be displayed on the screen.
+
+Overall, the AI Command Hub is a powerful and user-friendly tool that allows users to control all the available AI chatbots and other commands from a single window. It provides a seamless and convenient experience for users who want to communicate with AI assistants and access useful commands at the same time.
+
+![Unbenannt4](https://user-images.githubusercontent.com/75140549/230722342-1208a428-e52a-4161-9f89-feb5120b8f51.PNG)
+
+
 
