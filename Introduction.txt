@@ -1,0 +1,285 @@
+Welcome to our pre-defined command program!
+
+Our program offers AI commands to start the AIs WolframAlpha and OpenAI, which are two of the most advanced artificial intelligence platforms in the world. To use these, you will need an API for each of them.
+In addition, our program offers two other programs: Chatty and Q&A Companion, to start the you also need the AI commands. Chatty is a program designed for general conversation and can provide pre-defined answers based on a pre-set answer sheet. If you want to customize the responses, you can easily move to the folder where you have installed the programm, there you can costumize Chatty-responses -> make sure to write in the same style as the other pre-written answeres. Q&A Companion, on the other hand, is designed to make your own chatbot. It comes with  pre-defined answer sheets, but you can also write your own answer-sheet (Please when you do that make sure to follow the rules of writing, which are following) for it. Please make sure to read the introduction following, so you make sure to use the program right. 
+
+GUI Description:
+Help -> to show this sheet
+Submit -> to execute the command
+Execute -> to execute the command fast without speakin
+Mute/Unmute -> to turn the speaking of or on
+Speak -> to talk and not write (only works if you have an microphone)
+Clear -> to clear 
+
+Important:
+It only works with internet connection, otherwise the program will not start. Make sure not to remove files from the folder where the program is located, otherwise it will not start. It also can happen that the program have some errors. For further problems please contact me under Paul.Poandl@gmail.com!
+
+Commands:
+Normal Commands:
+
+play the song + song/play the band + band/play the video + video
+open + youtube/google/gmail/spotify/microsoft office/netflix
+tell me + time/a joke
+who is + person/what is + thing,band,country,... 
+search browser for + __/search wikipedia for + __
+
+Note: Pay attention to the upper and lower case letters, so write the commands exactly like above!
+Note: It maybw has some errors!
+Note: There will also come more commands later!
+
+AI Commands:
+
+Q&A Companion:
+"talk to Q&A Companion"
+
+What is it:
+This program is a graphical user interface chatbot application. 
+It uses the PyQt5 library for GUI design and the NLTK library for language processing. 
+The chatbot functionality is implemented through the nltk.chat.util.Chat class, 
+which uses pattern matching to determine the chatbot's response. 
+The chatbot's response pairs are stored in a text file, 
+the file path of which is selected by the user through a file dialog. 
+The user can enter a message in the input field, which is then processed by the chatbot and 
+the response is displayed in the output field. The conversation can be cleared using the "Clear" button. 
+The program also includes error handling for cases where the selected file is not found or if the file 
+is empty.
+
+The Q&A Companion is a program that enables users to create and use their own Q&A response sheets. 
+The program comes with pre-made (you have to download this from git hub "Q&A Companion-responses") Q&A response sheets, however, 
+its main aim is to allow users to create their own custom response sheets with their own rules. 
+This can be done by selecting a .txt file containing a set of patterns and corresponding responses. 
+The program then uses the Natural Language Toolkit (nltk) library to match the user's 
+input with the patterns in the response sheet and return the appropriate response.
+
+Response-sheet system:
+The Response system is build of Wildcards and patterns, the whole system
+is called pattern-response system.
+
+In a pattern-response system, the chatbot is programmed 
+with a list of patterns and corresponding responses. 
+When a user inputs text, the chatbot matches the input against its 
+list of patterns to find the best match. The chatbot then generates a 
+response based on the corresponding response for the matched pattern.
+
+A pattern in the context of natural language processing 
+and chatbots refers to a specific text string or group 
+of strings that the chatbot is designed to recognize and respond to. 
+The pattern serves as a trigger for the chatbot to generate a response.
+
+Wildcards are symbols used in patterns to 
+represent one or more characters in a user's input. 
+Wildcards allow the chatbot to match a wider range of user inputs while 
+still being able to generate a relevant response. There are different types of wildcards, including:
+
+"*" : Represents zero or more characters
+"_" : Represents a single word
+"|" : Represents "or" - a pattern can match if either pattern before or after the | symbol matches, it also
+works with responses, but not at the same time wih patterns
+"?" : Matches any single charactes
+"+" : Matches one or more characters
+"[]" : Matches a set of characters. For example, [aeiou] matches any vowels, or [hi|hello]
+"{}" : Matches a specific number of characters. For example, {2,4} matches between 2 and 4 characters
+"^" : Matches the start of a line (is not always necessary)
+"$" : Matches the end of a line (is not always necessary)
+
+A pattern is written in the format pattern = response. 
+Here are some examples of patterns that incorporate wildcards:
+
+I am feeling * = "Why are you feeling that way?
+What is your favorite * = I am an AI language model, I don't have personal preferences.
+Hi|Hello|Hey = Hello! How can I help you today?
+I have a * problem = What kind of problem is it?
+Hello|Hi = Hello!
+What can you do for me = Lot of things.|What you like!
+What do you do for * = A lot of things!
+What do you do with your time+ = Being an Assistant for you!
+What are your favorite [Games|Series|Plays] = I do not like anything!
+What are {1,5} = A number.
+
+These are just a few examples to give you an idea of how patterns 
+can be constructed and used. Keep in mind that the pattern-response system can 
+become complex and very good system, so when you spend enough time and you know hot it works,
+you could make your own chatbot. You only need to build the response-sheet, it should look like 
+the example above, make sure not to make empty lines and follow the rules which where mentioned
+above. Always save the answer-sheet in txt. The answer-sheets are all in the folder Q&A Companion-responses,
+the folder should be in your download folder or you can download it from Git-Hub, where you also
+have downloaded this program.
+
+Note: There are maybe more wildcards, but it is not sure that each wildcards works with the programm!
+Note: When you make your own answer-sheet, please be aware of spelling mistakes!
+Note: It would be a great idea befor you make your own answer sheet take a look at the
+answer sheets which are given!
+Note: To start the programm please choose an answer sheet first
+Note: It does not matter if you use punctuation, but it would be adivce not to use it, because the it is more clear
+with wildcards!
+
+
+
+Chatty:
+"talk to Chatty"
+
+Chatty is a programm which is maded by myself. It is not complex, it is a very easy programm, which is triggerd by keywords, so that
+means when you say "hello", the word "hello" is defined in a file, and the programm takes one of four option and rensponses you.
+Due to this, youe messages must be clear formuladed, that means there should be no spelling mistakes, you also have to do punctuation, even
+when you only write one word, otherway the programm will not be able to respond to you. Chatty works for normal all day
+conversation, but he can also answer a lot of question. 
+
+
+Question and commands for Chatty:
+
+1.) All day communication like:
+hello, goodbye, what is you favorite food, ...
+2.) Knowledge:
+what is + thing,city,... 
+3.) Persons:
+who is + person
+
+You can also add your own keywords to the answer sheet "Chatty - responses", you can find it in the folder where 
+you have installed your the program. Make sure to write it in the same style as the keywords already written. 
+
+Note: Take the answers from Chatty not serious!
+Note: Formulade your question clear, make not to make mistakes.
+Note: Always make punctuation!
+Note: By adding responses make sure not to make mistakes.
+Note: To find the file with the responses go to the folder, where you have installed chatty!
+Note: Make sure to formulade clear!
+Note: Chatty will not remember you conversation, because he is only triggerd by words
+Note: Chatty is not a complex Programm and will not maybe give you the answer you like!
+Note: The punctuation is necessary that Chatty unterstands you!
+
+
+
+Open AI:
+"talk to OpenAIs Davinci"
+"talk to OpenAIs Curie"
+"talk to OpenAIs Babbage"
+"talk to OpenAIs Ada"
+"talk to OepnAIs gpt-3.5-turbo"
+
+You have to express yourself in a way that the OpenAI engine can understand, 
+you'll need to provide input in a format that the engine can process. 
+This typically involves specifying the desired task or prompt, 
+along with any relevant input data, in a structured way that the engine can understand.
+It also depends on the engine you use, the best is to look on the website of OpenAi.
+
+Engines:
+text-davinci-003
+text-curie-001
+text-babbage-001
+text-ada-001
+
+Davinci: This is the largest and most advanced language generation AI model developed by OpenAI with a capacity of more than 175 billion parameters. It is capable of handling a wide range of natural language processing tasks such as translation, summarization, question answering, and language generation.
+Ada: Ada is a smaller variant of the Davinci model, with around 96 million parameters. It is designed to generate human-like text and is capable of handling similar tasks as Davinci, but with a more focused scope.
+Curie: This engine is designed for simple, fast, and cost-effective language generation tasks such as chatbots, conversational agents, and other text-based applications.
+Babbage: Babbage is a smaller and more efficient engine designed for simple, low-latency applications such as generating answers to questions and short phrases.
+
+An engine is a component of a model that is optimized for a specific task, such as 
+generating text or answering questions. An engine provides a more focused and specific 
+capability compared to a full model. Modules, on the other hand, are smaller components that 
+can be combined to build larger models. You can't use a full model 
+because it's too large and complex to run on most hardware. Full mo
+dels have billions of parameters and require significant computational
+resources to run. Engines, on the other hand, are designed to be more
+computationally efficient and can run on less powerful hardware. 
+Additionally, a full model may include capabilities that are not necessary 
+for a specific task, making it less efficient to use. By using an engine, 
+you can get the specific capabilities you need without having to use the 
+entire model, making your code more efficient and less resource-intensive.
+OpenAI provides several engines that are optimized for different tasks, such as the GPT-3 engine(Davinic) 
+for text generation and the Ada engine for question answering. 
+These engines provide specific functionality that can be integrated.
+
+Tokens and Temperature:
+In OpenAI's language models, "token" refers to a discrete unit of meaning, 
+such as a word, symbol, or punctuation mark.
+Tokens are the basic building blocks used by the model to generate text.
+
+"Temperature" is a parameter that controls the randomness of the model's text generation. 
+A higher temperature value results in more diverse and unpredictable text, 
+while a lower temperature value results in text that is more conservative and 
+closer to the training data. By adjusting the temperature value, you can control the level of creativity and diversity 
+in the text generated by the model.
+
+In this Programm the Temperature is set to 1.0, so that it gives detailed informations
+with a creativity of answering, but still not to high. Tokens are set between 2000 and 2500 (because everey engine uses a specific setting), so that
+you can also put in whole texts and that he also will give you a long and good. 
+answer. 
+
+Note: The OpenAI API cannot remember your conversation, to use the full power of the engines(models)
+go to OpenAIs website.
+Note: Write your answers so, that engines understand them.
+Note: The API is not free, go to https://openai.com/api/pricing/#faq-token to
+select a model, which you can communicate with, and pay for it, remember to choose the enigine
+you like to and then you only can use this engine, make sure to use the right Programm
+for the Engine here.
+Note: The pricing goes with Tokens, so it depends on the amount of text you put in, also
+note that when you sign up for a account you have a value of 18USD dollars on OpenAI.
+Note: Only language models are avaible, Image models are not being provided, by this programm.
+Note: The language models which are being mentioned at the beginning are being provided. 
+Note: You have to form you question clear, do not send only one word like "Hi", this will not work, but it will also depend on the engine you use. 
+Note: When a new engine or one engine is not supported any longer by OpenAI, it will also not work here, for the engines
+you have to wait for a new version of this program
+Note: The AI can solve math porblems and everything, like for example Chatgpt, but this is only online avaible. 
+Note: Make sure to always end your question or santence with an point or question marke.
+Note: The programm can speak with you in every language.
+
+
+
+
+
+Wolfram Alpha:
+"talk to wolframalpha"
+
+Wolfram Alpha is a computational knowledge engine that provides answers to questions and provides 
+information on a wide range of topics, including mathematics, science, history, geography, and more. 
+It uses natural language processing and machine learning algorithms to understand user queries and provide accurate and relevant information.
+To ask Wolfram Alpha a question in a way that it can understand and provide an answer,
+you should use natural language and write a clear, concise question that specifies what information you are looking for. 
+
+For example:
+"Who is Albert Einstein?"
+"What is the capital of France?"
+"What is the meaning of life?"
+"What is the formula for calculating the area of a circle?"
+"When was the first moon landing?"
+"6*x=4*100  What is x?"
+
+Start with a clear, concise question in natural language, like "What is the capital of France?" or "When was Albert Einstein born?"
+Avoid asking questions that are too general or unclear, like "What is everything?" or "What is the meaning of life?"
+Also avoid asking questions that are not factual or not answerable by a computer, like "What is love?" or "What are your thoughts on politics?"
+Examples of questions that may not work:
+Questions that are too general or unclear, like "What is everything?"
+Questions that are not answerable by a computer, like "What is love?"
+Questions that are not well-formed or grammatically incorrect, like "capital France is what?"
+
+Note. Sometimes after error occured, hit the clear button, so that it will work correctly
+Note: The Wolfram Alpha API is not perfect and may not be able to answer every question correctly. If you get an error or no result, try rephrasing your question or asking a more specific question.
+Note: Wolfram Alpha is not a general AI and may not be able to answer all questions.
+Note: It only put out text-based results, other results will be marked at non-avaible or with other Errors.
+For more information on the types of queries the API can handle, please refer to the official API documentation.-> It also depends which API you are using
+You can use the full power of Wolfram Alpha by visiting their website: https://www.wolframalpha.com/
+
+
+
+
+
+
+
+
+
+
+
+
+Author (Autor):
+Paul Poandl -> Paul.Poandl@gmail.com
+
+Citation:
+
+AIs:
+Wolframalpha -> https://www.wolframalpha.com
+OpenAI -> https://openai.com
+
+Python Modules:
+
+time, pywhatkit, webbrowser, datetime, speech_recognition, pyttsx3, customtkinter, tkinter, ctypes, os, pyjokes, pyaudio, wolframalpha, openai, pynput, sys, requests, json, subprocess, keyboard, ecapture, wikipedia
+
