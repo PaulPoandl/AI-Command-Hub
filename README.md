@@ -8,6 +8,7 @@ Our app also includes a command window, where you can use various commands to ex
 
 We believe that everyone should have access to the power of AI, and our library offers a simple and effective way to do just that. So why not give it a try? Get started today and explore the possibilities of AI!
 
-
-It will come soon!
 ![AI Command HubFlash](https://user-images.githubusercontent.com/75140549/230712264-43bf6fc9-943f-40af-9c02-f95a92740b95.PNG)
+
+
+
