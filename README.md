@@ -14,13 +14,18 @@ We believe that everyone should have access to the power of AI, and our library 
 
 The Programm contains the AI models Ada, Davinci, Babbage and Curie, supportage for other models will comen in teh future. Each of the OpenAI language models (Ada, Davinci, Babbage, and Curie) is designed to perform various natural language processing tasks such as text generation, translation, summarization, and question-answering. They are not whole models because they are part of a larger language model architecture that is trained on a vast amount of text data. Each model is fine-tuned to perform specific tasks and has its own unique capabilities and limitations based on its training data and parameters. Therefore, they cannot perform all natural language processing tasks perfectly, but they are still good enough! 
 
+![Unbenannt](https://user-images.githubusercontent.com/75140549/230721514-f3f1efee-22d7-413f-9148-c9c34f97d7cb.PNG)
+
 # Wolframalpha 
 
 Wolfram Alpha is a computational knowledge engine that can answer factual queries by computing the answers based on structured data from various sources. It can perform a wide range of tasks such as mathematical computation, data analysis, image and signal processing, and natural language understanding. It is not a general-purpose search engine like Google, but rather a tool for computing specific answers to factual questions.
 
 This Programm works by integrating with the Wolfram Alpha API, which allows it to send queries to the Wolfram Alpha engine and receive computed answers in response. Users can enter their queries in natural language, and your app will send the query to the Wolfram Alpha API for processing. The API returns the computed answer, which your app can then display to the user. This way, your app provides access to the computational power of Wolfram Alpha to users who want to quickly compute answers to factual questions. However, it's important to note that the accuracy of the answers depends on the quality and completeness of the data sources used by Wolfram Alpha.
 
+![Unbenannt2](https://user-images.githubusercontent.com/75140549/230721625-37569ef6-7c6e-4906-81d1-218057a1172e.PNG)
+
 # Chatty and Q&A Companion
 
+![Unbenannt3](https://user-images.githubusercontent.com/75140549/230721757-52f37466-3e1f-4a15-b189-2043732d14d0.PNG)
 
 
