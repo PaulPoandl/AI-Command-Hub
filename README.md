@@ -52,3 +52,12 @@ Overall, the AI Command Hub is a powerful and user-friendly tool that allows use
 
 
 
+
+
+Author -> Paul Poandl
+
+Note: Wolframalpha (https://www.wolframalpha.com) and OpenAI (https://openai.com) are not my programs!!!!
+Note: The AIs maybe cost something!!
+Note: Read the introduction before you use the program!!
+Note: Agree the license otherwise you are not allowed to use it!
+Note: The program maybe have some errors!
