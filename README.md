@@ -50,9 +50,12 @@ Overall, the AI Command Hub is a powerful and user-friendly tool that allows use
 
 ![Unbenannt4](https://user-images.githubusercontent.com/75140549/230722342-1208a428-e52a-4161-9f89-feb5120b8f51.PNG)
 
+# Installation
 
+Click on this Link, it leads to Google drive where you can download the installation file, it is to big for Git Hub:
+https://drive.google.com/file/d/18OjAvdP94UBjgsGBrBt3R0F0Epcb9RMj/view?usp=sharing
 
-
+For the Installation click on the file and you will be lead through the installation process, wish you fun with the program!
 
 Author -> Paul Poandl
 
