@@ -40,7 +40,7 @@ The AI Command Hub is the main window of the program, which has a modern and use
 
 In addition to launching the chatbots, the AI Command Hub also includes other useful commands that can help users in their day-to-day activities. For instance, it includes a Help button that provides assistance to users when they need it. This can be useful for users who are new to the program or require some guidance in using the chatbots effectively.
 
-Another important feature of the AI Command Hub is the ability to mute or unmute the chatbots. This can be useful for users who prefer to read the responses rather than listening to them. The ability to mute or unmute the chatbots can also help in situations where users do not want the chatbots to speak out loud, for example, in a crowded environment.
+Another important feature of the AI Command Hub is the ability to mute or unmute the chatbot. This can be useful for users who prefer to read the responses rather than listening to them. The ability to mute or unmute the chatbot can also help in situations where users do not want the chatbot to speak out loud, for example, in a crowded environment.
 
 Users can also speak their commands through the AI Command Hub. This feature is particularly useful for users who prefer to speak their queries or commands rather than typing them out. The program uses voice recognition technology to understand the user's speech and execute the relevant command.
 
