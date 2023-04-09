@@ -52,7 +52,7 @@ Overall, the AI Command Hub is a powerful and user-friendly tool that allows use
 
 # Installation
 
-Click on one of the Link to download the Installation file:
+Click on one of the Links to download the Installation file:
 
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
