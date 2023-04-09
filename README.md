@@ -80,6 +80,7 @@ Twitter: https://twitter.com/AICommandHub?s=09
 
 # Quellen 
 Author: Paul Poandl
+
 Contact: Paul.Poandl@gmail.com, aicommandhub@gmail.com
 
 Note: Wolframalpha (https://www.wolframalpha.com) and OpenAI (https://openai.com) are not my programs!
