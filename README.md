@@ -52,18 +52,39 @@ Overall, the AI Command Hub is a powerful and user-friendly tool that allows use
 
 # Installation
 
-Click on this Link, it leads to Google drive where you can download the installation file, it is to big for Git Hub:
+Click on one of the Link to download the Installation file:
+
+For Windows 11/Windows 10/Windows 8/Windows 7:
 
 Google Drive: https://drive.google.com/file/d/18OjAvdP94UBjgsGBrBt3R0F0Epcb9RMj/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
-For the Installation click on the file and you will be lead through the installation process, wish you fun with the program!
+MASV: https://get.massive.app/01GXJVSMVCF3T9Y1M80CZMGPNX?secret=mpmEadqowmjRxoXJ (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com) / (Only a limited number of downloads)
 
-Author -> Paul Poandl
+Dropbox: https://www.dropbox.com/s/e08ymd163w42n6p/AI%20Command%20Hub%20-%201.0%20beta%20-%20Installer.exe?dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
-Note: Wolframalpha (https://www.wolframalpha.com) and OpenAI (https://openai.com) are not my programs!!!!
-Note: The AIs maybe cost something!!
-Note: Read the introduction before you use the program!!
+For Linux and MacOS:
+
+Will come soon! 
+
+![786](https://user-images.githubusercontent.com/75140549/230769957-ccbc0490-10ca-497b-bd10-830e94164630.PNG)
+
+
+For the Installation click on the installation-file and you will be lead through the installation process, wish you fun with the program!
+
+
+# Follow us on Social Media
+
+Instagram: https://www.instagram.com/aicommandhub/?igshid=ZDdkNTZiNTM%3D
+Twitter: https://twitter.com/AICommandHub?s=09 
+
+# Quellen 
+Author: Paul Poandl
+Contact: Paul.Poandl@gmail.com, aicommandhub@gmail.com
+
+Note: Wolframalpha (https://www.wolframalpha.com) and OpenAI (https://openai.com) are not my programs!
+Note: The AIs maybe cost something!
+Note: Read the introduction before you use the program!
 Note: Agree the license otherwise you are not allowed to use it!
 Note: The program maybe have some errors!
 Note: I do not guarantee that all of the above information is correct!
-Note: Please do not take too serious what the program tell you!!!
+Note: Please do not take too serious what the program tell you!
