@@ -10,6 +10,8 @@ We believe that everyone should have access to the power of AI, and our library 
 
 ![AI Command HubFlash](https://user-images.githubusercontent.com/75140549/230712264-43bf6fc9-943f-40af-9c02-f95a92740b95.PNG)
 
+Video: https://drive.google.com/uc?id=1Ci3xCMYYS_y_JeV4znUm7a5mobL4qKBo&export=download
+
 # Open AI
 
 The Programm contains the AI models Ada, Davinci, Babbage and Curie, supportage for other models will come in the future. Each of the OpenAI language models (Ada, Davinci, Babbage, and Curie) is designed to perform various natural language processing tasks such as text generation, translation, summarization, and question-answering. They are not whole models because they are part of a larger language model architecture that is trained on a vast amount of text data. Each model is fine-tuned to perform specific tasks and has its own unique capabilities and limitations based on its training data and parameters. Therefore, they cannot perform all natural language processing tasks perfectly, but they are still good enough! 
