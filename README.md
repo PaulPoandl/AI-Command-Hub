@@ -76,9 +76,9 @@ For the Installation click on the installation-file and you will be lead through
 
 # Follow us on Social Media
 
-Instagram: https://www.instagram.com/aicommandhub/?igshid=ZDdkNTZiNTM%3D
+Instagram: https://www.instagram.com/aicommandhub
 
-Twitter: https://twitter.com/AICommandHub?s=09 
+Twitter: https://twitter.com/AICommandHub
 
 # Quellen 
 Author: Paul Poandl
