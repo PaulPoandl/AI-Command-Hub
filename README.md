@@ -12,46 +12,6 @@ We believe that everyone should have access to the power of AI, and our library 
 
 Video: https://drive.google.com/uc?id=1Ci3xCMYYS_y_JeV4znUm7a5mobL4qKBo&export=download
 
-# Open AI
-
-The Programm contains the AI models Ada, Davinci, Babbage and Curie, supportage for other models will come in the future. Each of the OpenAI language models (Ada, Davinci, Babbage, and Curie) is designed to perform various natural language processing tasks such as text generation, translation, summarization, and question-answering. They are not whole models because they are part of a larger language model architecture that is trained on a vast amount of text data. Each model is fine-tuned to perform specific tasks and has its own unique capabilities and limitations based on its training data and parameters. Therefore, they cannot perform all natural language processing tasks perfectly, but they are still good enough! 
-
-![Unbenannt](https://user-images.githubusercontent.com/75140549/230721514-f3f1efee-22d7-413f-9148-c9c34f97d7cb.PNG)
-
-# Wolframalpha 
-
-Wolfram Alpha is a computational knowledge engine that can answer factual queries by computing the answers based on structured data from various sources. It can perform a wide range of tasks such as mathematical computation, data analysis, image and signal processing, and natural language understanding. It is not a general-purpose search engine like Google, but rather a tool for computing specific answers to factual questions.
-
-This Programm works by integrating with the Wolfram Alpha API, which allows it to send queries to the Wolfram Alpha engine and receive computed answers in response. Users can enter their queries in natural language, and your app will send the query to the Wolfram Alpha API for processing. The API returns the computed answer, which your app can then display to the user. This way, your app provides access to the computational power of Wolfram Alpha to users who want to quickly compute answers to factual questions. However, it's important to note that the accuracy of the answers depends on the quality and completeness of the data sources used by Wolfram Alpha.
-
-![Unbenannt2](https://user-images.githubusercontent.com/75140549/230721625-37569ef6-7c6e-4906-81d1-218057a1172e.PNG)
-
-# Chatty and Q&A Companion
-
-Chatty is a chatbot program that has been designed to facilitate all-day communication between users and the program. It operates using pre-defined answers to questions and prompts, which are stored in a response sheet. This sheet can be customized by each user, allowing for personalized communication and improved interaction.
-The response sheet in Chatty is an important feature as it serves as a reference for the program's pre-defined responses. Users can define or rewrite responses to suit their specific needs or preferences, making the chatbot more tailored to their individual communication style. The program's ability to incorporate personalization helps to increase user engagement and satisfaction.
-
-Q&A Companion, on the other hand, is a similar program that requires users to write their own response sheet. However, there are already pre-existing response sheets available to help users get started. This program is more suited to those who prefer a more hands-on approach to customizing their chatbot, as they can choose to write and update the responses themselves.
-Overall, both Chatty and Q&A Companion are useful chatbot programs that can help users communicate with ease and efficiency. With their pre-defined and customizable responses, they provide an excellent solution for all-day communication and support.
-
-![Unbenannt3](https://user-images.githubusercontent.com/75140549/230721757-52f37466-3e1f-4a15-b189-2043732d14d0.PNG)
-
-# The main Programm (AI Command Hub) 
-
-The AI Command Hub is the main window of the program, which has a modern and user-friendly design. It provides users with a centralized location to access all the available AI chatbots and other useful commands. The hub serves as a control panel for all the AI-powered assistants, which can be launched from this window.
-
-In addition to launching the chatbots, the AI Command Hub also includes other useful commands that can help users in their day-to-day activities. For instance, it includes a Help button that provides assistance to users when they need it. This can be useful for users who are new to the program or require some guidance in using the chatbots effectively.
-
-Another important feature of the AI Command Hub is the ability to mute or unmute the chatbot. This can be useful for users who prefer to read the responses rather than listening to them. The ability to mute or unmute the chatbot can also help in situations where users do not want the chatbot to speak out loud, for example, in a crowded environment.
-
-Users can also speak their commands through the AI Command Hub. This feature is particularly useful for users who prefer to speak their queries or commands rather than typing them out. The program uses voice recognition technology to understand the user's speech and execute the relevant command.
-
-Finally, the AI Command Hub includes an Execute and Submit button, which allows users to start the command. This button is used to launch the chatbots and execute other useful commands available in the program. By clicking on the Execute and Submit button, the program will execute the command, and the relevant response will be displayed on the screen.
-
-Overall, the AI Command Hub is a powerful and user-friendly tool that allows users to control all the available AI chatbots and other commands from a single window. It provides a seamless and convenient experience for users who want to communicate with AI assistants and access useful commands at the same time.
-
-![Unbenannt4](https://user-images.githubusercontent.com/75140549/230722342-1208a428-e52a-4161-9f89-feb5120b8f51.PNG)
-
 # Installation
 
 Click on one of the Links to download the Installation file:
