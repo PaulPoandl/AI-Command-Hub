@@ -14,17 +14,12 @@ We believe that everyone should have access to the power of AI, and our library 
 
 Click on one of the Links to download the Installation file:
 
+# Version 1.0 beta
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
 Google Drive: https://drive.google.com/file/d/18OjAvdP94UBjgsGBrBt3R0F0Epcb9RMj/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
-MASV: https://get.massive.app/01GXJVSMVCF3T9Y1M80CZMGPNX?secret=mpmEadqowmjRxoXJ (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com) / (Only a limited number of downloads)
-
 Dropbox: https://www.dropbox.com/s/e08ymd163w42n6p/AI%20Command%20Hub%20-%201.0%20beta%20-%20Installer.exe?dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
-
-For Linux and MacOS:
-
-Will come soon! 
 
 ![786](https://user-images.githubusercontent.com/75140549/230769957-ccbc0490-10ca-497b-bd10-830e94164630.PNG)
 
