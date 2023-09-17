@@ -12,7 +12,7 @@ We believe that everyone should have access to the power of AI, and our library 
 
 # Installation
 
-Click on one of the Links to download the Installation file:
+Click on one of the Links below to download the installation file, you can also choose the version you like:
 
 # Version 1.0 beta
 For Windows 11/Windows 10/Windows 8/Windows 7:
