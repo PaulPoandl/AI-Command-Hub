@@ -10,6 +10,7 @@ We believe that everyone should have access to the power of AI, and our library 
 
 ![AI Command HubFlash](https://user-images.githubusercontent.com/75140549/230712264-43bf6fc9-943f-40af-9c02-f95a92740b95.PNG)
 
+
 # Installation
 
 Click on one of the Links below to download the installation file, you can also choose the version you like:
@@ -21,17 +22,13 @@ Google Drive: https://drive.google.com/file/d/18OjAvdP94UBjgsGBrBt3R0F0Epcb9RMj/
 
 Dropbox: https://www.dropbox.com/s/e08ymd163w42n6p/AI%20Command%20Hub%20-%201.0%20beta%20-%20Installer.exe?dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
-![786](https://user-images.githubusercontent.com/75140549/230769957-ccbc0490-10ca-497b-bd10-830e94164630.PNG)
-
-
-For the Installation click on the installation-file and you will be lead through the installation process, wish you fun with the program!
-
 
 # Follow us on Social Media
 
 Instagram: https://www.instagram.com/aicommandhub
 
 Twitter: https://twitter.com/AICommandHub
+
 
 # Quellen 
 Author: Paul Poandl
