@@ -25,7 +25,7 @@ Dropbox: https://www.dropbox.com/s/e08ymd163w42n6p/AI%20Command%20Hub%20-%201.0%
 ## Version 2.0
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
-Google Drive: https://drive.google.com/file/d/1FeXO9ZE-IohoWcyj1TKG1Y5iFuNiKsAh/view?usp=drive_link (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+Google Drive: https://drive.google.com/file/d/18OjAvdP94UBjgsGBrBt3R0F0Epcb9RMj/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
 Dropbox: https://www.dropbox.com/scl/fi/6uji4vezamzas580fwz0a/AI-Command-Hub-2.0-Installer.exe?rlkey=n8wwmsx4inec7e7ufm7hple70&dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
