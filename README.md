@@ -37,6 +37,11 @@ Instagram: https://www.instagram.com/aicommandhub
 Twitter: https://twitter.com/AICommandHub
 
 
+# Visit our Website!
+
+Link: https://aicommandhub2.wordpress.com
+
+
 # Quellen 
 Author: Paul Poandl
 
