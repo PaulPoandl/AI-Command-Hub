@@ -32,20 +32,17 @@ Dropbox: https://www.dropbox.com/scl/fi/6uji4vezamzas580fwz0a/AI-Command-Hub-2.0
 
 # Follow us on Social Media
 
-Instagram: https://www.instagram.com/aicommandhub
-
-Twitter: https://twitter.com/AICommandHub
-
+Instagram: https://www.instagram.com/bytegroovelabs
 
 # Visit our Website!
 
 Link: https://aicommandhub2.wordpress.com
 
 
-# Quellen 
+# Source
 Author: Paul Poandl
 
-Contact: Paul.Poandl@gmail.com, aicommandhub@gmail.com
+Contact: Paul.Poandl@gmail.com, bytegroovelabs@gmail.com
 
 Note: Wolframalpha (https://www.wolframalpha.com) and OpenAI (https://openai.com) are not my programs!
 Note: The AIs maybe cost something!
