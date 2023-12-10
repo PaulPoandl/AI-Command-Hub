@@ -18,8 +18,7 @@ Click on one of the Links below to download the installation file, you can also 
 ## Version 1.0
 For Windows 11/Windows 10/Windows 8/Windows 7:
 
-Google Drive: [https://drive.google.com/file/d/1NI3Ixfd8eD05_lSp4v_pELgyGJqoLuIR/view?usp=drive_link](https://drive.google.com/file/d/1NI3Ixfd8eD05_lSp4v_pELgyGJqoLuIR/view?usp=sharing) (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
-Google Drive:  (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+Google Drive: https://drive.google.com/file/d/1NI3Ixfd8eD05_lSp4v_pELgyGJqoLuIR/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
 
 ## Version 2.0
 For Windows 11/Windows 10/Windows 8/Windows 7:
