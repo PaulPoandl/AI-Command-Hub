@@ -62,6 +62,7 @@ Link: https://aicommandhub2.wordpress.com
 
 # Source
 Author: Paul Poandl, ByteGroove Labs
+
 Contact: Paul.Poandl@gmail.com, bytegroovelabs@gmail.com
 
 Please consider the following important information:
