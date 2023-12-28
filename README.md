@@ -32,22 +32,25 @@ In summary, our AI library is a comprehensive and versatile application that cat
 
 # Installation
 
-Click on one of the Links below to download the installation file, you can also choose the version you like:
+To download the program, select the version that suits your needs from the links below. Each version is compatible with Windows 11, Windows 10, Windows 8, and Windows 7. You have two options for downloading: either as an executable file (.exe) from Google Drive or as source code from GitHub, only Version 3.0.
 
-## Version 1.0
-For Windows 11/Windows 10/Windows 8/Windows 7:
+Please note, if you choose to download the source code, ensure that you have Python installed on your system, along with all the necessary modules required by the program. Additionally, you can convert the source code to an executable (.exe) file using PyInstaller. However, remember to update the script paths in the code from '.py' to '.exe' to ensure seamless interaction among the scripts in the executable format.
 
-Google Drive: https://drive.google.com/file/d/1NI3Ixfd8eD05_lSp4v_pELgyGJqoLuIR/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+## Available Versions:
 
-## Version 2.0
-For Windows 11/Windows 10/Windows 8/Windows 7:
+#### Version 1.0
+- Google Drive (Executable file): [Download from Google Drive](https://drive.google.com/file/d/1NI3Ixfd8eD05_lSp4v_pELgyGJqoLuIR/view?usp=sharing)  
+  (Note: Your computer might warn you about the executable file. If you have concerns, feel free to reach out to me at Paul.Poandl@gmail.com)
 
-Google Drive: https://drive.google.com/file/d/1dIKMtCqXM0MlGG7dzIdDC4Jw1jwEXlSo/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under [Paul.Poandl@gmail.com](mailto:Paul.Poandl@gmail.com))
+#### Version 2.0
+- Google Drive (Executable file): [Download from Google Drive](https://drive.google.com/file/d/1dIKMtCqXM0MlGG7dzIdDC4Jw1jwEXlSo/view?usp=sharing)  
+  (Note: If a security warning appears regarding the executable file, please contact me at Paul.Poandl@gmail.com for any clarifications.)
 
-## Version 3.0 
-For Windows 11/Windows 10/Windows 8/Windows 7:
+#### Version 3.0
+- Google Drive (Executable file): [Download from Google Drive](https://drive.google.com/file/d/1V03GY57rhAI5UKXHmOnkJeMRq38X9mb8/view?usp=sharing)  
+  (Note: In case of security alerts about the executable file, please do not hesitate to contact me at Paul.Poandl@gmail.com for assistance.)
 
-Google Drive: https://drive.google.com/file/d/1V03GY57rhAI5UKXHmOnkJeMRq38X9mb8/view?usp=sharing (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under [Paul.Poandl@gmail.com](mailto:Paul.Poandl@gmail.com))
+Remember, if you download the source code from GitHub, ensure you have the proper Python environment and necessary modules installed to run the program successfully.
 
 # Follow us on Social Media!
 
