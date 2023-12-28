@@ -1,0 +1,92 @@
+Welcome to the AI Command Hub User Guide!
+
+**1. What is the Program:**
+
+AI Command Hub is an advanced, command-triggered program designed to understand and execute a variety of commands. 
+At its core, it utilizes speech recognition technology, powered by Google's API, to interpret spoken words. 
+When you speak into the microphone, the program listens and converts your speech into text, but you can also just write your command. 
+This text is then analyzed for commands and keywords, which are mapped to various functions like playing music, 
+opening websites, or conducting searches.
+
+**2. User Interface and Buttons:**
+
+The interface is simple and intuitive, featuring two main sections: the GUI frame and the button frame.
+
+- **GUI Frame:** Displays the main interface where you can see the responses and interactions.
+- **Button Frame:** Contains various buttons, each with a specific function:
+    - **Speak Button:** Press this to activate voice recognition and start speaking your command.
+    - **Clear Button:** Clears the output text area.
+    - **Help Button:** Opens this window.
+    - **Tools Button:** Launches additional tool window that are part of the AI Command Hub, like WolframAlpha Chat and OpenAI Chat, as well as a Translator. 
+        There are also buttons to open Windows Explorer and so on.
+    - **Mute Button:** Toggles the mute function. When muted, the assistant will not provide audio feedback.
+    - **Submit Button or Execute Button:** Buttons to execute your command, Execute Button does not check your entry.
+
+**3. Commands:**
+
+AI Command Hub understands a variety of commands:
+
+- **"Play [song/band/video]":** Plays music or videos. Example: "Play Imagine Dragons." or "play a video from ByteGroove Labs"
+- **"Talk to/talk/start [WolframAlpha Chat/OpenAI Chat]":** Initiates a conversation with the specified AI service. Example: "start WolframAlpha Chat" or "WolframAlpha"
+- **"Open [website]":** Opens a specified website. Example: "Open YouTube." (for youtube, google, gmail, spotify, microsoft office, netflix and amazon without Domain)
+- **"Tell me [time/date/joke]":** Provides the current time, date, or a random joke. Example: "tell me a funny joke"
+- **"Who is/Who are/What is/What are [query]":** Searches for information about a person or a thing on wikipedia. Example: "what is ByteGroove Labs"
+- **"Search wikipedia for [query]":** Searches for information about a person or a thing on wikipedia. Example: "search wikipedia for ByteGroove Labs"
+- **"Search browser for [query]":** Conducts a web search for the specified query. Example: "search browser for ByteGroove Labs"
+
+The program is also capable of understanding everyday conversation, making it versatile in its interactions. Make sure that you don't include any of the above commands in your ever day command, 
+because then the function for this specific command will be called.
+
+**4. Language Understanding and Response Accuracy:**
+
+AI Command Hub is designed to comprehend commands even with linguistic inaccuracies. This means you can speak naturally, and it will do its best to understand. 
+However, it's important to note that sometimes the responses may not be accurate or make sense, especially with complex or ambiguous queries.
+When AI Command Hub receives a command, it first processes the input, cleaning and normalizing the text. It then breaks down the command into words or phrases, 
+matching these with its database of known commands or using fuzzy logic for close approximations. Based on the identified command, the AI performs specific actions, 
+which could range from opening a website to playing a video or answering a question. If the command is ambiguous or unclear, the AI may ask for clarification or indicate a lack of understanding. 
+Finally, the AI provides a response or carries out the requested task, completing the interaction. 
+
+**5. Access to WolframAlpha and OpenAI Models:**
+
+AI Command Hub provides unique to WolframAlpha and OpenAI: This feature is a significant part of the program. Here's how it works:
+
+- **Access Through the Program:** You can start WolframAlpha Chat and OpenAI Chat through the AI Command Hub. 
+    This can be done either by clicking the dedicated buttons in the button frame or by issuing a voice or text command.
+- **Developer API Requirement:** To interact with WolframAlpha and OpenAI's models, users must have their own developer APIs. 
+    These are not provided by ByteGroove Labs. Users need to acquire these APIs independently from the official websites of WolframAlpha and OpenAI.
+- **Not ByteGroove Labs' programs:** It's important to clarify that WolframAlpha and OpenAI are independent entities 
+    and their AI models are not owned or created by ByteGroove Labs. Our program merely facilitates access to these models through a user-friendly interface.
+- **Getting Started and Help:** For new users or those needing assistance, starting the Chats and clicking on the "Help" button 
+    provides detailed instructions and guidance. 
+    This includes information on how to obtain and use the developer APIs for WolframAlpha and OpenAI.
+- **Interactive Experience:** Once set up with the necessary APIs, you can enjoy an interactive experience with these powerful tools. 
+    Whether you're looking for detailed computational answers from WolframAlpha or engaging in advanced conversations with OpenAI's models, 
+    the AI Command Hub acts as your bridge to these technologies.
+
+**6. Notes:**
+
+Remember, to fully utilize features as the WolframAlpha Chat and OpenAI Chat, you must obtain the respective developer APIs and integrate them with the Chats as per the instructions provided in the help section. 
+This integration empowers you to explore a wide range of queries and functionalitiess.
+Remember that as our program is continuously evolving, it may not be entirely free from errors or issues. We greatly appreciate your understanding and patience in this regard. 
+If you encounter any problems or notice any mistakes, we encourage you to let us know by sending an email. Your feedback is invaluable in helping us improve our services.
+
+
+
+
+
+
+
+Development Environment: Python
+Modules Used: customtkinter, tkinter, PIL, os, subprocess, time, datetime, requests, json, webbrowser, pyttsx3, speech_recognition, ctypes, ecapture,
+              wolframalpha, pyjokes, keyboard, pyaudio, pynput, re, pywhatkit, wikipedia, fuzzywuzzy, random, openai, sys, PyQt5.QtWidgest, PyQt5,
+              translate
+Tools Used to create the program: auto-py-to-exe, pyinstaller, Inno Setup
+
+
+For assistance, feel free to reach out to us via email at bytegroovelabs@gmail.com/paul.poandl@gmail.com 
+or explore more information on our website at https://aicommandhub2.wordpress.com.
+
+AI Command Hub
+Version 3.0
+Developed by ByteGroove Labs
+© 2023 All rights reserved
